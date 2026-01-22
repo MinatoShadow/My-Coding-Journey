@@ -16,7 +16,7 @@
 - Git & GitHub
 
 ## 🛠️ Projects
-- I don't have any projects right now but I am gonna make some projects soon!
+- To-Do List(It's my first Python project)
 
 ## 🧠 My Journey
 I'm documenting my learning journey through code.
