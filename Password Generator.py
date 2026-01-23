@@ -95,3 +95,4 @@ else:
         password += random.choice(char_pool)
 
     print(f"Generated Password: {password}")
+
