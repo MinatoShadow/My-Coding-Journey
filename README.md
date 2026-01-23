@@ -18,6 +18,8 @@
 ## 🛠️ Projects
 - Calculator(My First Project)
 - To-Do List
+- Password Generator
+
 
 ## 🧠 My Journey
 I'm documenting my learning journey through code.
