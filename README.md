@@ -16,7 +16,7 @@
 - Git & GitHub
 
 ## 🛠️ Projects
-# All The Comments In The File Are Made By AI But The Whole Code Is Mine Because I Don't Like Writing Commnets!
+### All The Comments In The File Are Made By AI But The Whole Code Is Mine Because I Don't Like Writing Commnets!
 - Calculator(My First Project)
 - To-Do List
 - Password Generator
