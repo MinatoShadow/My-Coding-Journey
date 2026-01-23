@@ -16,7 +16,8 @@
 - Git & GitHub
 
 ## 🛠️ Projects
-- To-Do List(It's my first Python project)
+- Calculator(My First Project)
+- To-Do List
 
 ## 🧠 My Journey
 I'm documenting my learning journey through code.
