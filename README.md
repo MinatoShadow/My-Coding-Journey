@@ -1,29 +1,44 @@
-# My-Coding-Journey
-# 👋 Hi, I'm Kushagra!
+# 🚀 My Coding Journey
 
+## 👋 Hi, I'm Kushagra
 🐍 I'm 13 years old and currently learning Python.
 
-## 🎯 My Goals
-- Master Python from the basics
-- Build real-world projects
-- Create AI-powered applications (Jarvis-style assistant 🤖)
-- Grow into a strong AI / backend developer
+This GitHub documents my journey from beginner to building real projects.
+I focus on learning fundamentals properly instead of rushing.
 
-## 📚 What I'm Learning
+---
+
+## 🎯 Goals
+- Build a strong foundation in Python
+- Improve problem-solving and logic
+- Create real-world projects
+- Explore AI and backend development step by step 🤖
+
+---
+
+## 📚 Currently Learning
 - Python fundamentals
-- Problem-solving & logic
-- AI basics (slowly, step by step)
+- Loops, functions, lists, conditionals
+- Problem-solving
 - Git & GitHub
+- Basic AI concepts (slow and steady)
+
+---
 
 ## 🛠️ Projects
-### All The Comments In The File Are Made By AI But The Whole Code Is Mine Because I Don't Like Writing Comments!
-- Calculator(My First Project)
-- To-Do List
-- Password Generator
+> The code logic is written by me.  
+> Comments are assisted by AI because I focus more on logic than writing explanations.
 
+- **Calculator** – My first Python project using basic input and conditions
+- **To-Do List** – CLI app to add, remove, and view tasks
+- **Password Generator** – Generates strong random passwords using Python
 
-## 🧠 My Journey
-I'm documenting my learning journey through code.
-This GitHub shows my progress, mistakes, and improvement over time.
+---
+
+## 🧠 Why this GitHub?
+This repository shows:
+- My progress
+- My mistakes
+- My improvement over time
 
 ⭐ Learning every day. One step at a time.
