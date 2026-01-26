@@ -32,7 +32,7 @@ I focus on learning fundamentals properly instead of rushing.
 - **Calculator** – My first Python project using basic input and conditions
 - **To-Do List** – CLI app to add, remove, and view tasks
 - **Password Generator** – Generates strong random passwords using Python
-
+- **ATM Simulator** - Simulates working of an ATM
 ---
 
 ## 🧠 Why this GitHub?
