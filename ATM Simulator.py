@@ -37,7 +37,7 @@ while True:
 
     user_command = input("Enter Command: ").lower()
 
-    # ---------- DEPOSIT ----------
+    # ---------- DEPOSIT ---------- #
     if user_command == "deposit money" or user_command == "1":
         money_to_deposit = float(input("How much money do you want to deposit: "))
 
@@ -47,7 +47,7 @@ while True:
             bank_balance += money_to_deposit
             print(f"Now your bank balance is: {bank_balance}")
 
-    # ---------- WITHDRAW ----------
+    # ---------- WITHDRAW ---------- #
     elif user_command == "withdraw money" or user_command == "2":
         money_to_withdraw = float(input("How much money do you want to withdraw: "))
 
@@ -59,7 +59,7 @@ while True:
             bank_balance -= money_to_withdraw
             print(f"Now your bank balance is: {bank_balance}")
 
-    # ---------- EXIT ----------
+    # ---------- EXIT ---------- #
     elif user_command == "exit" or user_command == "3":
         pincode = input("Enter your pincode: ")
 
@@ -82,3 +82,4 @@ while True:
     # ---------- INVALID COMMAND ---------- #
     else:
         print("Invalid command! Please choose 1, 2, or 3.")
+
