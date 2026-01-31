@@ -27,7 +27,7 @@ I focus on learning the fundamentals properly instead of rushing 🐢💡
 > All code logic is written by me 🧑‍💻  
 > Comments may be assisted by AI 🤖 because I focus more on logic than explanations ✍️  
 
-(I don't have any projects right now but i will be uploading soon)
+- Area calculator of rectangle
 
 ---
 
