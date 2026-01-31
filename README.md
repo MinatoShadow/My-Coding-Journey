@@ -1,7 +1,7 @@
 # 🚀 My Coding Journey
 
-## 👋 Hi, I'm Kush 
-🐍 I'm 13 years old and currently learning **Python** 💻✨  
+## 👋 Hi, I'm Kushagra
+ I'm 13 years old and currently learning **Java☕** 💻✨  
 
 This GitHub documents my journey from beginner to building real projects 🛠️🧠  
 I focus on learning the fundamentals properly instead of rushing 🐢💡  
@@ -17,7 +17,7 @@ I focus on learning the fundamentals properly instead of rushing 🐢💡
 ---
 
 ## 📚 Currently Learning 📚
-- Python basics: variables, data types, loops, conditionals, arrays 🔢🌀   
+- Java basics: variables, data types, loops, conditionals, arrays 🔢🌀   
 - Writing small programs to practice logic 💡🛠️  
 - Git & GitHub 🌐💻  
 
@@ -27,10 +27,7 @@ I focus on learning the fundamentals properly instead of rushing 🐢💡
 > All code logic is written by me 🧑‍💻  
 > Comments may be assisted by AI 🤖 because I focus more on logic than explanations ✍️  
 
-- Calculator
-- To-Do List
-- ATM Simulator
-- Password Generator
+(I don't have any projects right now but i will be uploading soon)
 
 ---
 
