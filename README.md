@@ -9,10 +9,10 @@ I focus on learning the fundamentals properly instead of rushing 🐢💡
 ---
 
 ## 🎯 Goals 🎯
-- Build a strong foundation in Python ☕📚  
+- Build a strong foundation in Java ☕📚  
 - Improve problem-solving and logic 🧩🤓  
 - Create real-world backend projects 🖥️⚡  
-- Explore Backend/AI development step by step 🤖🌌  
+- Explore Backend development step by step 🤖🌌  
 
 ---
 
