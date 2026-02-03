@@ -1,7 +1,7 @@
 # 🚀 My Coding Journey
 
 ## 👋 Hi, I'm Kushagra
- I'm 13 years old and currently learning **Golang🐹** 💻✨  
+ I'm 13 years old and currently learning **Java☕** 💻✨  
 
 This GitHub documents my journey from beginner to building real projects 🛠️🧠  
 I focus on learning the fundamentals properly instead of rushing 🐢💡  
@@ -9,7 +9,7 @@ I focus on learning the fundamentals properly instead of rushing 🐢💡
 ---
 
 ## 🎯 Goals 🎯
-- Build a strong foundation in Golang🐹💻
+- Build a strong foundation in Java☕💻
 - Improve problem-solving and logic 🧩🤓  
 - Create real-world backend projects 🖥️⚡  
 - Explore Backend development step by step 🤖🌌  
@@ -17,7 +17,7 @@ I focus on learning the fundamentals properly instead of rushing 🐢💡
 ---
 
 ## 📚 Currently Learning 📚
-- Golang basics: variables, data types, loops, conditionals, arrays 🔢🌀   
+- Java basics: variables, data types, loops, conditionals, arrays 🔢🌀   
 - Writing small programs to practice logic 💡🛠️  
 - Git & GitHub 🌐💻  
 
