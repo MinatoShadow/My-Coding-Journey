@@ -17,7 +17,7 @@ I focus on learning the fundamentals properly instead of rushing 🐢💡
 ---
 
 ## 📚 Currently Learning 📚
-- Golang basics: variables, data types, loops, conditionals, arrays 🔢🌀   
+- Golang basics: variables, data types, loops, conditionals, arrays, slice 🔢🌀   
 - Writing small programs to practice logic 💡🛠️  
 - Git & GitHub 🌐💻  
 
