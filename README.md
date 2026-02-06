@@ -5,7 +5,7 @@
 
 This GitHub documents my journey from beginner to building real projects 🛠️🧠  
 I focus on learning the fundamentals properly instead of rushing 🐢💡  
-I chose C++ because I wanna become a good game developer and maybe start my won studio someday!
+I chose C++ because I wanna become a good game developer and maybe start my own studio someday!
 ---
 
 ## 🎯 Goals 🎯
