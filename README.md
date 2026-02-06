@@ -1,16 +1,16 @@
 # 🚀 My Coding Journey
 
 ## 👋 Hi, I'm Kushagra
- I'm 13 years old and currently learning **Rust🦞** 💻✨  
+ I'm 13 years old and currently learning **Javascript/Typescript** 💻✨  
 
 This GitHub documents my journey from beginner to building real projects 🛠️🧠  
 I focus on learning the fundamentals properly instead of rushing 🐢💡  
-I chose Rust becuase I want to become unique and I prefer staticlayy typed languages and wanted something modern and unique.
+I chose this because I also wanna build an app📴💻 and maybe start my own startup.
 
 ---
 
 ## 🎯 Goals 🎯
-- Build a strong foundation in Rust🦞💻
+- Build a strong foundation in Javascript/Typescript💻
 - Improve problem-solving and logic 🧩🤓  
 - Create real-world backend projects 🖥️⚡  
 - Explore Backend development step by step 🤖🌌🎮  
@@ -18,7 +18,7 @@ I chose Rust becuase I want to become unique and I prefer staticlayy typed langu
 ---
 
 ## 📚 Currently Learning 📚
-- Rust🦞 basics: variables, data types, loops, conditionals, arrays 🔢🌀   
+- Javascript/Typescript basics: variables, data types, loops, conditionals, arrays 🔢🌀   
 - Writing small programs to practice logic 💡🛠️  
 - Git & GitHub 🌐💻  
 
