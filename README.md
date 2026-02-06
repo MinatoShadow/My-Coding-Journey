@@ -1,24 +1,23 @@
 # 🚀 My Coding Journey
 
 ## 👋 Hi, I'm Kushagra
- I'm 13 years old and currently learning **Javascript/Typescript** 💻✨  
+ I'm 13 years old and currently learning **C++🎮** 💻✨  
 
 This GitHub documents my journey from beginner to building real projects 🛠️🧠  
 I focus on learning the fundamentals properly instead of rushing 🐢💡  
-I chose this because I also wanna build an app📴💻 and maybe start my own startup.
-
+I chose C++ because I wanna become a good game developer and maybe start my won studio someday!
 ---
 
 ## 🎯 Goals 🎯
-- Build a strong foundation in Javascript/Typescript💻
+- Build a strong foundation in C++🎮💻
 - Improve problem-solving and logic 🧩🤓  
 - Create real-world backend projects 🖥️⚡  
-- Explore Backend development step by step 🤖🌌🎮  
+- Explore Game development step by step 🤖🌌🎮  
 
 ---
 
 ## 📚 Currently Learning 📚
-- Javascript/Typescript basics: variables, data types, loops, conditionals, arrays 🔢🌀   
+- C++ basics: variables, data types, loops, conditionals, arrays 🔢🌀   
 - Writing small programs to practice logic 💡🛠️  
 - Git & GitHub 🌐💻  
 
