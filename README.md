@@ -1,15 +1,15 @@
 # 🚀 My Coding Journey
 
 ## 👋 Hi, I'm Kushagra
- I'm 13 years old and currently learning **C#🎮** 💻✨  
+ I'm 13 years old and currently learning **Rust🦞** 💻✨  
 
 This GitHub documents my journey from beginner to building real projects 🛠️🧠  
 I focus on learning the fundamentals properly instead of rushing 🐢💡  
-I chose C# because I wanna become a good 2D/mid 3D not AAA stuff game developer and maybe start my own studio someday and also be a backend dev!
+I chose Rust because I wanna become a good 2D developer not AAA stuff game developer and maybe start my own studio someday and also be a backend dev!
 ---
 
 ## 🎯 Goals 🎯
-- Build a strong foundation in C#🎮💻
+- Build a strong foundation in Rust🦞🎮💻
 - Improve problem-solving and logic 🧩🤓  
 - Create real-world backend projects 🖥️⚡  
 - Explore Game/Backend development step by step 🤖🌌🎮  
@@ -17,7 +17,7 @@ I chose C# because I wanna become a good 2D/mid 3D not AAA stuff game developer 
 ---
 
 ## 📚 Currently Learning 📚
-- C# basics: variables, data types, loops, conditionals, arrays 🔢🌀   
+- Rust basics: variables, data types, loops, conditionals, arrays, tuple 🔢🌀   
 - Writing small programs to practice logic 💡🛠️  
 - Git & GitHub 🌐💻  
 
