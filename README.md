@@ -5,11 +5,11 @@
 
 This GitHub documents my journey from beginner to building real projects 🛠️🧠  
 I focus on learning the fundamentals properly instead of rushing 🐢💡  
-I chose C++ because I wanna become a good game developer and maybe start my own studio someday!
+I chose Rust because I wanna become a good 2D game developer and maybe start my own studio someday and also be a backend dev!(I know rust is not the main for game dev and it's still growing but i wanted to be unique)
 ---
 
 ## 🎯 Goals 🎯
-- Build a strong foundation in C++🎮💻
+- Build a strong foundation in Rust🦞🎮💻
 - Improve problem-solving and logic 🧩🤓  
 - Create real-world backend projects 🖥️⚡  
 - Explore Game development step by step 🤖🌌🎮  
@@ -17,7 +17,7 @@ I chose C++ because I wanna become a good game developer and maybe start my own 
 ---
 
 ## 📚 Currently Learning 📚
-- C++ basics: variables, data types, loops, conditionals, arrays 🔢🌀   
+- Rust basics: variables, data types, loops, conditionals, arrays 🔢🌀   
 - Writing small programs to practice logic 💡🛠️  
 - Git & GitHub 🌐💻  
 
